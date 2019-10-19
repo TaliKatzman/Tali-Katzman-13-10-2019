@@ -1,0 +1,24 @@
+.home-page {
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(2,12rem);
+    grid-template-areas: 
+
+    "current-weather . favorites-controller"
+    "forecast-container forecast-container forecast-container";
+
+    padding: 6rem;
+
+    @media screen and (max-width: 1215px) {
+
+        padding: 3rem;
+        grid-template-rows: 9rem 9rem auto;
+        grid-template-areas:
+
+        "current-weather current-weather current-weather"
+        "favorites-controller favorites-controller favorites-controller"
+        "forecast-container forecast-container forecast-container";
+
+    }
+}

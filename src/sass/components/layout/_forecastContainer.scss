@@ -1,0 +1,10 @@
+.forecast-container {
+    grid-area: forecast-container;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    @media screen and (max-width: 1215px) {
+        justify-content: left;
+    }
+}

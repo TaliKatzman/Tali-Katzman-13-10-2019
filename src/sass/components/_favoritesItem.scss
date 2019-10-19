@@ -1,0 +1,23 @@
+.favoritesItem {
+    background: rgba(#fff,0.3);
+    border-radius: 0.2rem;
+    text-align: center;
+    padding: 1rem 3rem;
+    cursor: pointer;
+    margin: 1rem;
+
+    @media screen and (min-width: 1070px) and (max-width: 1350px) {
+        flex: 0 30%;
+        
+    }
+
+    @media screen and (min-width: 1016px) and (max-width: 1069px) {
+        flex: 0 46%;
+        
+    }
+
+    @media screen and (max-width: 1015px) {
+        flex: 0 100%;
+        
+    }
+}

@@ -1,0 +1,19 @@
+@import "variables";
+@import "base";
+@import "components/header"; 
+@import "components/search";
+@import "components/forecastItem";
+@import "components/currentWeather";
+@import "components/favoritesController";
+@import "components/favoritesItem";
+@import "components/layout/main";
+@import "components/layout/homePage";
+@import "components/layout/favoritesPage";
+@import "components/layout/forecastContainer";
+@import "components/layout/toggleContainer";
+
+
+.app {
+    min-height: 100vh;
+    background-image: linear-gradient(to bottom right, #098a9c, #339eac,#43abb1,#62bdbe);
+}

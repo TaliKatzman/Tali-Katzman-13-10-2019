@@ -1,0 +1,46 @@
+.toggle-container {
+    color: #a0bdc5;
+    .btn {
+        color: #a0bdc5;
+        margin-right: 1rem;
+        &--active {
+            border: 2px solid #a0bdc5;
+            border-radius: 0.2rem;
+            color: #a0bdc5;
+            font-weight: bold;
+        }
+    }    
+
+    @media screen and (min-width: 640px) and (max-width: 900px) {
+        display: flex;
+        .btn {
+            margin: 0;
+            flex: 1 50%;
+
+            &--active {
+                background: #a0bdc5;
+                border-radius: 0;
+                color: #015b6d;
+                font-weight: bold;
+            }
+        }
+
+    }
+
+    @media screen and (max-width: 640px) {
+
+        .btn {
+            margin: 0;
+            display: block;
+            flex: 1 100%;
+
+            &--active {
+                background: #a0bdc5;
+                border-radius: 0;
+                color: #015b6d;
+                font-weight: bold;
+            }
+        }
+
+    }    
+}

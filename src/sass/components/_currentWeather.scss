@@ -1,0 +1,19 @@
+.current-weather {
+
+    grid-area: current-weather;
+
+    .city {
+        font-size: 1.5rem;
+        margin-bottom: 1.2rem;
+    }
+    
+    .temp {
+        font-size: 2.2rem;
+    }
+
+    @media screen and (max-width: 1215px) {
+
+        justify-self: center;
+
+    }
+}

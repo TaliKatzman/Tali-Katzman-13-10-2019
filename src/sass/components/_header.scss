@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #015b6d;
+    color: #a0bdc5;
+    padding: 0 10rem;
+
+    &__title {
+        display: flex;
+        align-items: center;
+        .heading {
+            display: inline-block;
+            margin: 0;
+            font-size: 2rem;
+        }
+    }
+
+    @media screen and (min-width: 640px) and (max-width: 900px) {
+        padding: 0;
+        display: block;
+           &__title {
+            justify-content: center;
+           }  
+    }
+
+    @media screen and (max-width: 640px) {
+        padding: 0;
+        display: block;
+
+        &__title {
+            justify-content: center;
+        }
+    }
+}
+
