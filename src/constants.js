@@ -9,7 +9,7 @@ export const URLS = {
     API_AUTOCOMPLETE: 'http://dataservice.accuweather.com/locations/v1/cities/autocomplete',
 }
 
-export const API_KEY = 'yHAQscY7LS2ebTCFLQg9OLFgKSuyiLKv';
+export const API_KEY = '5oMc4uGoSTA8uZGZC4056zo0enUCtUKB';
 
 export const DEFAULT_LOCATION_KEY = '215854';
 
