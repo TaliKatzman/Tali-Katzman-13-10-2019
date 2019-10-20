@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8be44e0d4508fb31dc655045b3a3c024",
+    "revision": "0b93eca4077ba8404fee9975a9c5b7a0",
     "url": "/Tali-Katzman-13-10-2019/index.html"
   },
   {
-    "revision": "53463123a900258e5201",
+    "revision": "36107a6bd8e8fc5daa95",
     "url": "/Tali-Katzman-13-10-2019/static/css/main.7a426b5d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Tali-Katzman-13-10-2019/static/js/2.64d5582f.chunk.js"
   },
   {
-    "revision": "53463123a900258e5201",
-    "url": "/Tali-Katzman-13-10-2019/static/js/main.a48077a9.chunk.js"
+    "revision": "36107a6bd8e8fc5daa95",
+    "url": "/Tali-Katzman-13-10-2019/static/js/main.56f50016.chunk.js"
   },
   {
     "revision": "63c827b9c412121c3efb",

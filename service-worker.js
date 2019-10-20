@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Tali-Katzman-13-10-2019/precache-manifest.d2ae0ee7040662bc2a25e3f975a61220.js"
+  "/Tali-Katzman-13-10-2019/precache-manifest.f68221497bfbe538248c8f769818a962.js"
 );
 
 self.addEventListener('message', (event) => {
