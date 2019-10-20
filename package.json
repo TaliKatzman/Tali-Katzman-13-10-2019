@@ -2,7 +2,7 @@
   "name": "my_weather_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://TaliKatzman.github.io/weather-app-react",
+  "homepage": "https://talikatzman.github.io/Tali-Katzman-13-10-2019/",
   "dependencies": {
     "debounce": "^1.2.0",
     "gh-pages": "^2.1.1",
