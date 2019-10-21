@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Tali-Katzman-13-10-2019/static/css/main.7a426b5d.chunk.css",
-    "main.js": "/Tali-Katzman-13-10-2019/static/js/main.56f50016.chunk.js",
-    "main.js.map": "/Tali-Katzman-13-10-2019/static/js/main.56f50016.chunk.js.map",
+    "main.js": "/Tali-Katzman-13-10-2019/static/js/main.6ce4d21f.chunk.js",
+    "main.js.map": "/Tali-Katzman-13-10-2019/static/js/main.6ce4d21f.chunk.js.map",
     "runtime-main.js": "/Tali-Katzman-13-10-2019/static/js/runtime-main.ad226fa4.js",
     "runtime-main.js.map": "/Tali-Katzman-13-10-2019/static/js/runtime-main.ad226fa4.js.map",
     "static/js/2.64d5582f.chunk.js": "/Tali-Katzman-13-10-2019/static/js/2.64d5582f.chunk.js",
     "static/js/2.64d5582f.chunk.js.map": "/Tali-Katzman-13-10-2019/static/js/2.64d5582f.chunk.js.map",
     "index.html": "/Tali-Katzman-13-10-2019/index.html",
-    "precache-manifest.f68221497bfbe538248c8f769818a962.js": "/Tali-Katzman-13-10-2019/precache-manifest.f68221497bfbe538248c8f769818a962.js",
+    "precache-manifest.f5604a575f7496ccae32b452639e067b.js": "/Tali-Katzman-13-10-2019/precache-manifest.f5604a575f7496ccae32b452639e067b.js",
     "service-worker.js": "/Tali-Katzman-13-10-2019/service-worker.js",
     "static/css/main.7a426b5d.chunk.css.map": "/Tali-Katzman-13-10-2019/static/css/main.7a426b5d.chunk.css.map",
     "static/media/app.scss": "/Tali-Katzman-13-10-2019/static/media/city.695f8904.jpg",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ad226fa4.js",
     "static/js/2.64d5582f.chunk.js",
     "static/css/main.7a426b5d.chunk.css",
-    "static/js/main.56f50016.chunk.js"
+    "static/js/main.6ce4d21f.chunk.js"
   ]
 }
